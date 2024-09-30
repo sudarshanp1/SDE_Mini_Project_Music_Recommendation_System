@@ -3,7 +3,6 @@ Project focuses on constructing a robust ETL (Extract, Transform, Load) pipeline
 
 **Architecture Diagram**
 
-![image](https://github.com/sudarshanp1/Spotify_E2E_ETL_DataEngineering_project/assets/121892659/e3bce2ae-3fc1-45f6-a635-b04e84b2d3b8)
 ![7C871986-795D-4AF5-AE18-82342E878FF8](https://github.com/user-attachments/assets/61778ed8-b290-4b4c-9ae3-48a84b488af4)
 
 
